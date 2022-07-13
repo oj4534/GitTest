@@ -9,5 +9,9 @@ public class GitScript : MonoBehaviour
     {
         Debug.Log("���׽�Ʈ");
     }
-
+    
+    void Test()
+    {
+        Debug.Log("Add test");
+    }
 }
