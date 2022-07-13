@@ -7,6 +7,7 @@ public class GitScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("깃허브 한글@");
         Debug.Log("한글 테스트!");
     }
     
